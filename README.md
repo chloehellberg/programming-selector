@@ -2,9 +2,9 @@ README.md
 
 # _Programming Language Suggester_
 
-#### _A program that helps users who are interested in coding decide which language they should learn first, 7.15.20_
+#### _A program that helps users who are interested in coding decide which language they should learn first_
 
-#### By _**Chloe Hellberg**_
+#### By _**Chloe Hellberg, created 7.15.20**_
 
 ## Description
 
