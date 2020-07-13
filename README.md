@@ -12,7 +12,11 @@ _This application asks a user who is interested in learning coding various quest
 
 ## Setup/Installation Requirements
 
-* _No set up or install required_
+* _Clone the application to your desktop_
+* _Open index.html in your preferred web browser_
+* _Answer the questions that appear on your screen_
+
+_This requires a desktop and a web browser._
 
 ## Known Bugs
 
