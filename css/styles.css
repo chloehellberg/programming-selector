@@ -35,5 +35,12 @@ p {
 }
 
 body {
-  background-color: black;
+  background-color: 	#383838;
 }
+
+/* #questions {
+  width: 100%;
+  padding: 15px; 
+  border: solid 2px white;
+  border-radius: 10px;
+} */
