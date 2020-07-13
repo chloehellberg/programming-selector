@@ -10,54 +10,39 @@
 <body>
   <div class="container">
     <h1>Programming Selector</h1>
-      <p>So you're interested in coding? Take this quick quiz to find out which language may be a good fit for you to explore first! Getting a variety of answers? Choose one and you can't lose!</p>
-    <form id="question1">
+      <p>So you're interested in coding? Take this quick quiz to find out which language may be a good fit for you to explore first! Answer true or false to find out which one you should start with.</p>
+    <form id="questions">
       <div class="form-group1">
-        <h2>Question 1: True or False, You are curious to learn a foundational language.</h2>
+        <h4>Question 1: You are curious about learning a foundational language.</h2>
       </div>
       <div class="radio">
         <label>
-          <input type="radio" name="operator" value="true" checked>
+          <input type="radio" name="question1" value="true" checked>
           True
         </label>
       </div>
       <div class="radio">
         <label>
-          <input type="radio" name="operator" value="false">
+          <input type="radio" name="question1" value="false">
           False
         </label>
       </div>
-
-
-
-
-
-
       <div class="form-group2">
-        <label for="input2">2nd number:</label>
-        <input id="input2" class="form-control" type="text">
+        <h4>Question 2: You want to code at a "leisurely pace" instead of super fast.</h2>
       </div>
-
-
-
-      
       <div class="radio">
         <label>
-          <input type="radio" name="operator" value="multiply">
-          multiply
+          <input type="radio" name="question2" value="true" checked>
+          True
         </label>
-      </div>        
+      </div>
       <div class="radio">
         <label>
-          <input type="radio" name="operator" value="divide">
-          divide
+          <input type="radio" name="question2" value="false">
+          False
         </label>
-      </div>        
-      <button type="submit" class="btn">Go!</button>
+      </div>
     </form>
-    <div id="output">
-
-    </div>
   </div>
 </body>
 </html>
