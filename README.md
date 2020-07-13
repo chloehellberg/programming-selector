@@ -24,7 +24,7 @@ _No known bugs at this time_
 
 ## Support and contact details
 
-_If you run into issues, please email chloe.hellberg@gmail.com which questions and concerns. Feel free to contribute to this code._
+_If you run into issues, please email chloe.hellberg@gmail.com with questions and concerns. Feel free to contribute to this code._
 
 ## Technologies Used
 
