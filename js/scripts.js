@@ -24,7 +24,9 @@ $(document).ready(function() {
       else {
         result = "Javascript"
       }
-    console.log(result);
+    // console.log(result);
+
+    
    $("#output").text(result);
   });
 });
