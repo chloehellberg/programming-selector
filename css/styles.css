@@ -46,13 +46,13 @@ body {
 } */
 
 
-#button {
+.button {
   color: black;
 }
 
 
 
-.answer {
+#answer {
   color: white;
 
 }
